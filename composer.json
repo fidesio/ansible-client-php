@@ -1,0 +1,13 @@
+{
+    "name": "jaune/ansible-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jaune",
+            "email": "jaunelacouleur@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzle/http": "3.9.1"
+    }
+}
